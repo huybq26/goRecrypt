@@ -8,8 +8,8 @@ import (
 	"encoding/hex"
 	"fmt"
 	"github.com/huybq26/goRecrypt/curve"
-	"goRecrypt/math"
-	"goRecrypt/utils"
+	"github.com/huybq26/goRecrypt/math"
+	"github.com/huybq26/goRecrypt/utils"
 	"math/big"
 )
 
