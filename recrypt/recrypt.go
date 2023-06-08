@@ -7,7 +7,7 @@ import (
 	"encoding/gob"
 	"encoding/hex"
 	"fmt"
-	"github.com/SherLzp/goRecrypt/curve"
+	"github.com/huybq26/goRecrypt/curve"
 	"goRecrypt/math"
 	"goRecrypt/utils"
 	"math/big"
