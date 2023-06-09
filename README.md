@@ -1,5 +1,5 @@
 # goRecrypt
-`goRecrypt` is a tool to execute proxy re-encryption algorithms. It offers a high-level API to easily implement the process of re-encryption.
+`goRecrypt` is a tool to execute proxy re-encryption algorithms. It offers a high-level API to easily implement the process of re-encryption. 
 
 # Introduction and Theory
 
